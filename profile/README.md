@@ -8,7 +8,7 @@ It streamlines the setup process and supports all major ETS2 map expansions, car
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/ETS-2-DLC-Unlocker-Tool/.github/releases/)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
